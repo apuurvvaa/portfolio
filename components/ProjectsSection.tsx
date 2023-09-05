@@ -6,27 +6,27 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 
 const projects = [
   {
-    name: "Thankful Thoughts",
+    name: "5-Tools",
     description:
-      "ThankfulThoughts is a web app that generates an appreciative sentence of something or someone you are thankful for.",
-    image: "/thankfulthoughts.png",
-    github: "https://github.com/hqasmei/thankful-thoughts",
-    link: "https://thankfulthoughts.io/",
+      "AI SaaS Platform with Five AI Tools",
+    image: "/5-Tools.png",
+    github: "https://github.com/apuurvvaa/5-tools",
+    link: "https://github.com/apuurvvaa/5-tools",
   },
   {
-    name: "PlatoIO",
-    description: "PlatoIO is a to do list app that built using the PERN stack.",
-    image: "/platoio.png",
-    github: "https://github.com/hqasmei/platoio",
-    link: "https://platoio.com/register",
+    name: "Echo",
+    description: "An AI Image Generation app to generate images like memes, art, and UI/UX designs. Allow users to input text or image data; the AI generator will use this data to generate new images in real-time.",
+    image: "/echo.png",
+    github: "https://github.com/apuurvvaa/Echo",
+    link: "https://github.com/apuurvvaa/Echo",
   },
   {
-    name: "Kator Family Photos",
+    name: "Pioneer Polls",
     description:
-      "Kator Family Photos is a photos and video digitization service in the LA area.",
-    image: "/familyphotos.png",
-    github: "https://github.com/hqasmei/katorfamilyphotos",
-    link: "https://katorfamilyphotos.com/",
+      "PioneerPolls is a platform built to appeal to students and faculty to create a community to anonymously share opinions and feedback on the quality of classes, professors, restaurants, and school services on the CSUEB campus. ",
+    image: "/saasComp.png",
+    github: "https://github.com/CSU-EB-Survey-App/Survey-Project",
+    link: "https://github.com/CSU-EB-Survey-App/Survey-Project",
   },
 ]
 
