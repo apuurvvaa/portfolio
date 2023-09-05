@@ -9,11 +9,18 @@ const skills = [
   { skill: "Python" },
   { skill: "React" },
   { skill: "Next.js" },
-  { skill: "Tailwind CSS" },
-  { skill: "Git" },
-  { skill: "GitHub" },
-  { skill: "Jupyter Notebooks" },
+  { skill: "C" },
+  { skill: "C++" },
+  { skill: "Java" },
+  { skill: "Linux" },
+  { skill: "Android" },
+  { skill: "Swift" },
+  { skill: "Node.js" },
+  { skill: "Firebase" },
+  { skill: "MongoDB" },
+
 ]
+
 
 const AboutSection = () => {
   return (
