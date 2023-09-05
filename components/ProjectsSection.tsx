@@ -24,7 +24,7 @@ const projects = [
     name: "Pioneer Polls",
     description:
       "PioneerPolls is a platform built to appeal to students and faculty to create a community to anonymously share opinions and feedback on the quality of classes, professors, restaurants, and school services on the CSUEB campus. ",
-    image: "/saasComp.png",
+    image: "/ChatComm.png",
     github: "https://github.com/CSU-EB-Survey-App/Survey-Project",
     link: "https://github.com/CSU-EB-Survey-App/Survey-Project",
   },
