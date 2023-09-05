@@ -38,9 +38,8 @@ const AboutSection = () => {
             </p>
             <br />
             <p>
-              I'm an upcoming graduate from California State Universty, East Bay
-             with a keen interest in software development and a strong desire to make a positive impact on peoples lives. My ultimate goal is to apply the concepts that I have learned through my academic program to real-world projects, and I am thrilled about the opportunity presented by this job description to do exactly that. 
-            <br />
+              I&apos;m an upcoming graduate from California State University, East Bay
+            with a keen interest in software development and a strong desire to make a positive impact on people&apos;s lives. My ultimate goal is to apply the concepts that I have learned through my academic program to real-world projects<br />
             <br />
             As of now, I am employed as a specialist at Apple in Palo Alto, where I collaborate closely with cross-functional teams such as Technicians, Operations and Business Experts, Geniuses, and Creatives. In my spare time, I enjoy working on side projects, where I actively seek to contribute and learn as much as possible, leveraging my visual learning skills to enhance my knowledge and understanding. 
             <br />
