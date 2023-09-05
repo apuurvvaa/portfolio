@@ -29,37 +29,24 @@ const AboutSection = () => {
             <h1 className="text-center text-2xl font-bold mb-6 md:text-left">
               Get to know me!
             </h1>
-            <p>
-              Hi, my name is Hosna and I am a{" "}
+           <p>
+              Hi, my name is Apurva and I am a{" "}
               <span className="font-bold">{"highly ambitious"}</span>,
               <span className="font-bold">{" self-motivated"}</span>, and
               <span className="font-bold">{" driven"}</span> software engineer
-              based in Los Angeles, CA.
+              based in San Francisco, CA.
             </p>
             <br />
             <p>
-              I graduated from California State University, Northridge in 2019
-              with a BS in Computer Engineering and have been working in the
-              field ever since.
-            </p>
+              I'm an upcoming graduate from California State Universty, East Bay
+             with a keen interest in software development and a strong desire to make a positive impact on peoples lives. My ultimate goal is to apply the concepts that I have learned through my academic program to real-world projects, and I am thrilled about the opportunity presented by this job description to do exactly that. 
             <br />
-            <p>
-              I have a wide range of hobbies and passions that keep me busy.
-              From reading, playing sports, traveling, to making YouTube videos,
-              I am always seeking new experiences and love to keep myself
-              engaged and learning new things.
-            </p>
             <br />
-            <p>
-              I believe that you should{" "}
-              <span className="font-bold text-teal-500">
-                never stop growing
-              </span>{" "}
-              and that&#39;s what I strive to do, I have a passion for
-              technology and a desire to always push the limits of what is
-              possible. I am excited to see where my career takes me and am
-              always open to new opportunities. 🙂
-            </p>
+            As of now, I am employed as a specialist at Apple in Palo Alto, where I collaborate closely with cross-functional teams such as Technicians, Operations and Business Experts, Geniuses, and Creatives. In my spare time, I enjoy working on side projects, where I actively seek to contribute and learn as much as possible, leveraging my visual learning skills to enhance my knowledge and understanding. 
+            <br />
+            <br />
+            My ultimate objective is to utilize my skills in software development to make a meaningful impact, and I am highly motivated to achieve this through any means possible.
+          </p>
           </div>
           <div className="text-center md:w-1/2 md:text-left">
             <h1 className="text-2xl font-bold mb-6">My Skills</h1>
