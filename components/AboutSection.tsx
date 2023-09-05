@@ -72,7 +72,7 @@ const AboutSection = () => {
               })}
             </div>
             <Image
-              src="/image.png"
+              src="/hero-image.png"
               alt=""
               width={325}
               height={325}
