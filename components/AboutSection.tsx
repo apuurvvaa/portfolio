@@ -48,7 +48,10 @@ const AboutSection = () => {
               I&apos;m an upcoming graduate from California State University, East Bay
             with a keen interest in software development and a strong desire to make a positive impact on people&apos;s lives. My ultimate goal is to apply the concepts that I have learned through my academic program to real-world projects<br />
             <br />
-            As of now, I am employed as a specialist at Apple in Palo Alto, where I collaborate closely with cross-functional teams such as Technicians, Operations and Business Experts, Geniuses, and Creatives. In my spare time, I enjoy working on side projects, where I actively seek to contribute and learn as much as possible, leveraging my visual learning skills to enhance my knowledge and understanding. 
+            I recently completed a Software Engineer internship at Lattice Semiconductor in San Jose, CA. I created regression test cases in C++/C, improving code quality and reducing software bugs by 20%. I also optimized netlist change stabilization and analyzed performance, working with macros and seed combinations.
+            <br />
+
+            Previously, I was employed as a specialist at Apple in Palo Alto, where I collaborated closely with cross-functional teams such as Technicians, Operations and Business Experts, Geniuses, and Creatives. In my spare time, I enjoy working on side projects, where I actively seek to contribute and learn as much as possible, leveraging my visual learning skills to enhance my knowledge and understanding. 
             <br />
             <br />
             My ultimate objective is to utilize my skills in software development to make a meaningful impact, and I am highly motivated to achieve this through any means possible.
